@@ -1,0 +1,7 @@
+body
+{
+    color:whiten;
+	background-color:pink;
+	
+}
+
